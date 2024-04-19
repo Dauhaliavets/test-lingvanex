@@ -140,6 +140,7 @@ body {
   margin-bottom: 32px;
 }
 .tab-contents {
+  margin: 0 auto;
   max-width: 1137px;
   padding-bottom: 58px;
   position: relative;
